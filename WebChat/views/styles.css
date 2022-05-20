@@ -1,0 +1,95 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.allContainer {
+  background-color: rgb(202, 205, 206);
+  display: flex;
+  justify-content: space-around;
+  min-height: 60vh;
+}
+
+body {
+  font-size: 13px;
+}
+
+.container {
+  list-style-type: none;
+  width: 100%;
+}
+
+.container li {
+  padding: 15px 10px;
+}
+
+.usersContainer li {
+  color: white;
+  padding-bottom: 20px;
+}
+
+.msgForm {
+  padding: 15px 20px;
+  width: 100%;
+}
+
+.msgForm input {
+  border-radius: 7px;
+  padding: 10px;
+  width: 90%;
+}
+
+.msgForm button {
+  background: rgb(37, 211, 102);
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  padding: 12px;
+}
+
+.nick {
+  align-items: center;
+  display: flex;
+  font-size: 14px;
+  justify-content: space-between;
+  padding: 15px 30px;
+  width: 100%;
+}
+
+.nick button {
+  background: rgb(37, 211, 102);
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  padding: 8px;
+}
+
+.title {
+  background-color: rgb(18, 140, 126);
+  color: white;
+  padding: 15px;
+  text-align: center;
+  width: 100%;
+}
+
+.title-image {
+  float: inline-start;
+  margin-left: 8px;
+  width: 40px;
+}
+
+.usersContainer {
+  background-color: rgb(7, 94, 84);
+  border-bottom-right-radius: 5px;
+  border-top-right-radius: 5px;
+  float: left;
+  padding: 20px;
+  width: 260px;
+}
+
+
+/*  academic honesty:  https://github.com/tryber/sd-09-project-webchat/pull/60/files
+https://codepen.io/drehimself/pen/KdXwxR */
