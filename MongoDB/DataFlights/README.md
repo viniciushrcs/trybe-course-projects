@@ -1,7 +1,7 @@
-
 # Boas vindas ao repositório do projeto DataFlights!!
 
 ---
+
 # Sumário
 
 - [Habilidades](#habilidades)
@@ -15,7 +15,6 @@
 - Deletar documentos conforme filtro
 - Contar documentos compreendidos nos filtros pedidos
 - Inserir documentos no banco
-
 
 ## O que deverá ser desenvolvido
 
@@ -31,7 +30,7 @@ Durante a execução do projeto, utilize _queries_ do mongo para retornar os val
 
 Você deve criar uma pasta chamada `challenges` na raíz do projeto, contendo dentro dela arquivos no formato `desafioX.js` onde `X` é o número do requisito.
 
-Dentro dos arquivos `desafioX.js`, **crie uma query** ou mais (se necessário), para retornar o que o requisito pede. 
+Dentro dos arquivos `desafioX.js`, **crie uma query** ou mais (se necessário), para retornar o que o requisito pede.
 
 #### 1 - Retorne a quantidade de documentos inseridos na coleção `voos`.
 

@@ -28,42 +28,39 @@
   - [21 - Retorne o nome dos sanduíches em que o número de curtidas é maior que o número de sanduíches vendidos](#21---retorne-o-nome-dos-sanduíches-em-que-o-número-de-curtidas-é-maior-que-o-número-de-sanduíches-vendidos)
   - [22 - Retorne o nome e a quantidade de vendas (vendidos) dos sanduíches em que o número de vendas é múltiplo de 5](#22---retorne-o-nome-e-a-quantidade-de-vendas-vendidos-dos-sanduíches-em-que-o-número-de-vendas-é-múltiplo-de-5)
 
-- [Depois de terminar o desenvolvimento (opcional)](#depois-de-terminar-o-desenvolvimento-opcional)
-- [Revisando um pull request](#revisando-um-pull-request)
-- [Avisos Finais](#avisos-finais)
-
 ---
 
 # Habilidades
+
 Neste projeto, verificamos se você é capaz de:
 
-  * Utilizar o método `updateOne()` e `updateMany()`
+- Utilizar o método `updateOne()` e `updateMany()`
 
-  * Utilizar os operadores `$set`, `$mul`, `$inc`, `$min`, `$max` e `$currentDate`
+- Utilizar os operadores `$set`, `$mul`, `$inc`, `$min`, `$max` e `$currentDate`
 
-  * Renomear campos e remover campos
+- Renomear campos e remover campos
 
-  * Incorporar dados aos documentos através de arrays
+- Incorporar dados aos documentos através de arrays
 
-  * Utilizar os operadores `$pop`, `$pull` e `$push`
-  
-  * Utilizar o operador `$addToSet`
+- Utilizar os operadores `$pop`, `$pull` e `$push`
 
-  * Utilizar os operadores `$each`, `$slice` e `$sort`
+- Utilizar o operador `$addToSet`
 
-  * Utilizar o operador `$all` para filtrar documentos
+- Utilizar os operadores `$each`, `$slice` e `$sort`
 
-  * Utilizar o operador `$elemMatch` para filtrar documentos
+- Utilizar o operador `$all` para filtrar documentos
 
-  * Utilizar o operador `$size` para filtrar documentos pelo tamanho de arrays
+- Utilizar o operador `$elemMatch` para filtrar documentos
 
-  * Utilizar o operador `$expr` para criar expressões de agregação
+- Utilizar o operador `$size` para filtrar documentos pelo tamanho de arrays
 
-  * Utilizar expressões regulares e o operador `$regex` para buscar documentos
+- Utilizar o operador `$expr` para criar expressões de agregação
 
-  * Utilizar o índice textual e o operador `$text`
+- Utilizar expressões regulares e o operador `$regex` para buscar documentos
 
-  * Utilizar o operador `$mod`
+- Utilizar o índice textual e o operador `$text`
+
+- Utilizar o operador `$mod`
 
 ---
 
